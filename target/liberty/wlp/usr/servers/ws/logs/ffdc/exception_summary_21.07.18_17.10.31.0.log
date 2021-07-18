@@ -1,0 +1,12 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      3 18/07/2021 17:10:31:602 BRT 18/07/2021 17:10:37:125 BRT java.security.PrivilegedActionException com.ibm.ws.jaxws.client.injection.ServiceRefObjectFactory 474
+                                                                            - C:\Users\tauan\Documents\pw2\pw2xmlwebservice\target\liberty\wlp\usr\servers\ws\logs\ffdc\ffdc_21.07.18_17.10.31.0.log
+     1      3 18/07/2021 17:10:31:636 BRT 18/07/2021 17:10:37:125 BRT java.lang.reflect.InvocationTargetException com.ibm.wsspi.injectionengine.InjectionBinding.getInjectionObject 408
+                                                                            - C:\Users\tauan\Documents\pw2\pw2xmlwebservice\target\liberty\wlp\usr\servers\ws\logs\ffdc\ffdc_21.07.18_17.10.31.1.log
+     2      3 18/07/2021 17:10:31:660 BRT 18/07/2021 17:10:37:125 BRT com.ibm.wsspi.injectionengine.InjectionException com.ibm.ws.webcontainer.servlet.ServletWrapper.loadServlet 228
+                                                                            - C:\Users\tauan\Documents\pw2\pw2xmlwebservice\target\liberty\wlp\usr\servers\ws\logs\ffdc\ffdc_21.07.18_17.10.31.2.log
+     3      3 18/07/2021 17:10:31:835 BRT 18/07/2021 17:10:37:126 BRT javax.servlet.UnavailableException com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest() 302
+                                                                            - C:\Users\tauan\Documents\pw2\pw2xmlwebservice\target\liberty\wlp\usr\servers\ws\logs\ffdc\ffdc_21.07.18_17.10.31.3.log
+------+------+---------------------------+---------------------------+---------------------------
